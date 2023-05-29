@@ -40,7 +40,7 @@ When I'm not coding, you can find me learning new technologies, helping fellow d
 
 - 📚 **Stack Overflow**: I enjoy helping others solve their coding dilemmas. You can check out my Stack Overflow contributions [here](https://stackoverflow.com/users/13760612/yhr).
 
-- 🎓 **Frontend Masters**: I'm always striving to deepen my knowledge in frontend development. You can visit my Frontend Masters profile [here](https://frontendmasters.com/u/iamYHR/).
+- 🎓 **Frontend Masters**: I'm always striving to deepen my knowledge in software development. You can visit my Frontend Masters profile [here](https://frontendmasters.com/u/iamYHR/).
 
 ## More About me
 
