@@ -16,6 +16,7 @@ Though I'm comfortable navigating various technology stacks, my stronghold lies 
 - Special Libraries: Firepad, Socket.IO, YJS, FFMPEG.
 - Back-end: Node.js 🟩.
 - Full-stack: Next.js.
+- APIs: REST 🔄, GraphQL 📈, WebSocket 🕸️.
 - Database: Firebase 🔥, MongoDB 🍃.
 - Development Tools: Git, Jira.
 
