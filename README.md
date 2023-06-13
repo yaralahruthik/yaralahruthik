@@ -47,7 +47,7 @@ When I'm not coding, you can find me learning new technologies, helping fellow d
 
 An evolving Homo sapiens in the digital jungle, I am a computer scientist who doubles as an aspiring nature photographer. I harbor an undying love for all creatures - be they four-legged furballs 🐶🐱 or scaly reptiles 🦎 - as long as they don't harbor the intent to see me in the afterlife!
 
-An eclectic mix of interests defines me. My hands often juggle a soccer ball ⚽, a gaming console 🎮, and books (only a hundred so far, but who's counting?). Among the array of fascinating tales, Amish's Shiva Trilogy holds a special place in my heart, a realm usually free from the cacophony of music unless chaos descends.
+An eclectic mix of interests defines me. My hands and legs often juggle a soccer ball ⚽, a gaming console 🎮, and books (only a hundred so far, but who's counting?). Among the array of fascinating tales, Amish's Shiva Trilogy holds a special place in my heart, a realm usually free from the cacophony of music unless chaos descends.
 
 My screen time is often monopolized by The Big Bang Theory, Naruto, The Mentalist, Lucifer, Dr House MD, and thought-provoking documentaries unravelling the mysteries of our Blue Planet. Speaking of which, let's not forget - Global Warming isn't just coming, it's here!
 
