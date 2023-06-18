@@ -25,6 +25,9 @@ Though I'm comfortable navigating various technology stacks, my stronghold lies 
 - Testing: Jest, React Testing Library (RTL).
 - Development Tools: Notion 📘.
 
+🎓 Currently Learning:
+- Front-end: Svelte 🎯.
+
 💡 I am always open to learning and working with new technologies, especially those with comprehensive documentation.
 
 ## Projects
