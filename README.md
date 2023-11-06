@@ -2,10 +2,6 @@
 
 Currently working as a Frontend Consultant/Contractor. But I am open to full-time/contract roles in the UK and Europe.
 
-In the ever-evolving world of tech start-ups, I've found my niche in producing high-quality work rapidly, making me a valuable asset for early-stage ventures. My ability to quickly grasp and apply new concepts contributes to my efficiency.
-
-Though I'm comfortable navigating various technology stacks, my stronghold lies within front-end development. I specialize in architecting and crafting clean, maintainable front-ends that ensure a seamless user experience. My code blends functionality and aesthetics, mirroring the user interfaces I create.
-
 The tech stack where I have `professional-work` experience:
 - Programming Languages: TypeScript, JavaScript, Python.
 - Front-end: React, Redux, React Query, TailwindCSS, CSS/SCSS, HTML.
