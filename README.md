@@ -26,7 +26,7 @@ I am always open to learning and working with new technologies, especially those
 I love working on various projects to expand my skills and solve problems. Here are a couple of personal projects that I'm proud of:
 - [Frontend Hire](https://www.frontendhire.com/): A platform solving frontend interviews and hiring.
 - [Pages From My Diary](https://www.pagesfrommydiary.com/): An online diary and a space for self-expression.
-- [Etumologia]((https://www.etumologia.iamyhr.com/)): A unique word game to challenge your linguistic skills.
+- [Etumologia](https://www.etumologia.iamyhr.com/): A unique word game to challenge your linguistic skills.
 
 When I'm not coding, you can find me learning new technologies, helping fellow developers, and contributing to online tech communities. Here are a few platforms where you can catch me:
 - [Stack Overflow](https://stackoverflow.com/users/13760612/yhr): I enjoy helping others solve their coding dilemmas. 
