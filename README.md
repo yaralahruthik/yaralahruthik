@@ -1,11 +1,23 @@
-# Hey!
+# Hey
 
-Currently, focusing on building educational products and content.
+I am a product generalist a.k.a I can design, I can code, and I can manage products!
 
-I can work across the stacks but the bulk of my knowledge is in the frontend department. 
+As a product engineer, I can work with the following tech stack; TypeScript, React, Next.js, Astro, Drizzle, Postgres, Supabase, Python and most other technologies with a good documentation.
 
-I've found my niche in producing high-quality work rapidly, making me a valuable asset for early-stage ventures.
+As a product manager, I can work with the following tools: Figma, Excalidraw, Plane, BaseCamp, Most analytics tools. Apart from the tools, I bring quite a bit of velocity and simplify decisions for a faster GTM.
 
-I run a [dev studio](https://www.withyhr.com/).
+I have done a lot:
 
-I am also a writer and a nature-based photographer. You'll find the links to the photographs and writings on [my website](https://iamyhr.com/).
+- Founded and scaled an educational platform with 1,500+ users and 20+ paying customers.
+- Led product development for clients across the US, Singapore, and India.
+- Drove product migrations and feature implementations at New Relic and HireHunch.
+- Generated leads worth over 30 million INR through social strategies.
+
+My technical foundation and product thinking make me particularly effective in these domains:
+
+- Education Tech
+- Content Creation & Media
+- Productivity Solutions
+- Healthcare Technology
+- Talent Acquisition/HR Tech
+- Developer Tools & Platforms
